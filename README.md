@@ -1,5 +1,5 @@
 # sqliteapp
-Application for alarms using sqlite
+Application for alarms using sqlite in React Native (Expo)
 
 This application allows you to:
 - create an alarm clock using custom screen
